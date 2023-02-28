@@ -1,0 +1,30 @@
+.name{
+    color: blue;
+}
+
+.band {
+    background-color: grey;
+    border-style: solid;
+    border-width: 4px;
+    border-color: darkblue;
+    border-radius: 6px;
+    margin: 2px;
+}
+
+p {
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+.likes{
+    background-color: gray;
+    color: white
+}
+
+button{
+    background-color: grey;
+    border: none;
+}

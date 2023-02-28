@@ -1,0 +1,9 @@
+.BandList{
+    display: grid;
+    grid-template-columns: repeat(3, 400px [col-start]);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
